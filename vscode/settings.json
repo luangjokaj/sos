@@ -1,0 +1,88 @@
+{
+	"editor.minimap.enabled": true,
+	"files.exclude": {
+		"**/tmp": true,
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"**/build": true,
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true
+	},
+	"files.watcherExclude": {
+		"**/tmp/**": true,
+		"**/node_modules/**": true,
+		"**/bower_components/**": true,
+		"**/build/**": true
+	},
+	"workbench.colorTheme": "Solarized Dark",
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": "all",
+	"javascript.referencesCodeLens.enabled": true,
+	"javascript.validate.enable": false,
+	"editor.cursorStyle": "line",
+	"editor.smoothScrolling": true,
+	"editor.formatOnPaste": false,
+	"window.zoomLevel": 0,
+	"stylelint.config": {
+		"extends": "/Users/luangjokaj/staticweb-build/tools/stylelintrc.json"
+	},
+	"editor.formatOnSave": false,
+	"files.associations": {
+		"*.css": "postcss"
+	},
+	"path-intellisense.showHiddenFiles": true,
+	"postcss.validate": false,
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.startupEditor": "newUntitledFile",
+	"git.confirmSync": false,
+	"emmet.triggerExpansionOnTab": true,
+	"editor.wordWrap": "on",
+	"git.enableSmartCommit": true,
+	"eslint.autoFixOnSave": true,
+	"emmet.includeLanguages": {
+		"ocaml": "html",
+		"reason": "html"
+	},
+	"gitlens.codeLens.recentChange.enabled": false,
+	"gitlens.codeLens.authors.enabled": false,
+	"gitlens.blame.line.enabled": true,
+	"prettier.trailingComma": "es5",
+	"prettier.singleQuote": true,
+	"prettier.bracketSpacing": true,
+	"prettier.parser": "flow",
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"editor.renderIndentGuides": false,
+	"projectManager.openInNewWindowWhenClickingInStatusBar": true,
+	"terminal.integrated.fontFamily": "Inconsolata for Powerline",
+	"flow.useNPMPackagedFlow": true,
+	"gitlens.advanced.messages": {
+		"suppressCommitHasNoPreviousCommitWarning": false,
+		"suppressCommitNotFoundWarning": false,
+		"suppressFileNotUnderSourceControlWarning": false,
+		"suppressGitVersionWarning": false,
+		"suppressLineUncommittedWarning": false,
+		"suppressNoRepositoryWarning": false,
+		"suppressUpdateNotice": false,
+		"suppressWelcomeNotice": true
+	},
+	"indentRainbow.colors": [
+		"rgba(64,64,16,0.3)",
+		"rgba(32,64,32,0.3)",
+		"rgba(64,32,64,0.3)",
+		"rgba(16,48,48,0.3)",
+		"rgba(128,32,32,0.3)"
+	],
+	"git.autofetch": true,
+	"python.linting.enabledWithoutWorkspace": false,
+	"flow.enabled": false,
+	"auto-rename-tag.activationOnLanguage": [
+		"html",
+		"xml",
+		"php",
+		"javascript"
+	]
+}
