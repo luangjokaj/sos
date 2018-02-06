@@ -77,12 +77,11 @@
 		"rgba(128,32,32,0.3)"
 	],
 	"git.autofetch": true,
-	"python.linting.enabledWithoutWorkspace": false,
 	"flow.enabled": false,
 	"auto-rename-tag.activationOnLanguage": [
 		"html",
 		"xml",
 		"php",
-		"javascript"
+		"js"
 	]
 }
