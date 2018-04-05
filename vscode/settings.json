@@ -48,13 +48,6 @@
 	},
 	"gitlens.codeLens.recentChange.enabled": false,
 	"gitlens.codeLens.authors.enabled": false,
-	"gitlens.blame.line.enabled": true,
-	"prettier.trailingComma": "es5",
-	"prettier.singleQuote": true,
-	"prettier.bracketSpacing": true,
-	"prettier.parser": "flow",
-	"prettier.semi": false,
-	"prettier.useTabs": true,
 	"editor.renderIndentGuides": false,
 	"projectManager.openInNewWindowWhenClickingInStatusBar": true,
 	"terminal.integrated.fontFamily": "Inconsolata for Powerline",
@@ -66,6 +59,8 @@
 		"suppressGitVersionWarning": false,
 		"suppressLineUncommittedWarning": false,
 		"suppressNoRepositoryWarning": false,
+		"suppressResultsExplorerNotice": true,
+		"suppressShowKeyBindingsNotice": true,
 		"suppressUpdateNotice": false,
 		"suppressWelcomeNotice": true
 	},
@@ -80,8 +75,9 @@
 	"flow.enabled": false,
 	"auto-rename-tag.activationOnLanguage": [
 		"html",
-		"xml",
-		"php",
 		"js"
-	]
+	],
+	"gitlens.currentLine.enabled": true,
+	"gitlens.hovers.currentLine.enabled": true,
+	"gitlens.keymap": "chorded"
 }
