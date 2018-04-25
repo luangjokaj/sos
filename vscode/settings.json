@@ -79,5 +79,9 @@
 	],
 	"gitlens.currentLine.enabled": true,
 	"gitlens.hovers.currentLine.enabled": true,
-	"gitlens.keymap": "chorded"
+	"gitlens.keymap": "chorded",
+	"telemetry.enableTelemetry": false,
+	"gitlens.advanced.telemetry.enabled": false,
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false
 }

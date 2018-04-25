@@ -1,4 +1,4 @@
-gua.rainbow-brackets
+2gua.rainbow-brackets
 EQuimper.react-native-react-redux
 HookyQR.beautify
 Serge.vsc-material-theme-italicize
@@ -40,7 +40,7 @@ ms-python.python
 naumovs.color-highlight
 octref.vetur
 oderwat.indent-rainbow
-pavel.css-vars-fallback
+pranaygp.vscode-css-peek
 ricard.postcss
 robertohuertasm.vscode-icons
 shinnn.stylelint
