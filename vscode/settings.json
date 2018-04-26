@@ -31,7 +31,8 @@
 	},
 	"editor.formatOnSave": false,
 	"files.associations": {
-		"*.css": "postcss"
+		"*.css": "postcss",
+		"*.js": "javascriptreact"
 	},
 	"path-intellisense.showHiddenFiles": true,
 	"postcss.validate": false,
