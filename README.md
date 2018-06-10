@@ -6,9 +6,11 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Optimage](https://getoptimage.com) - 💰 $15 - Free edition is only limited to 24 images per day.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
 - [UPNG](http://upng.photopea.com/) - Shrink and optimize images. Set the ideal balance between the quality and the size.
+
 ## Mac OS Apps
 - [Custom Settings & Preferences](mac/README.md) - Quick hacks for system preferences.
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/files/Karabiner-Elements-12.1.0.dmg) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra or later.
+- [Station](https://getstation.com/) - A single place for all of your web-applications.
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) - 💰 $129 - ScreenFlow from Telestream, Inc. is a screencasting and video editing software for the OS X operating system.
 - [Sipapp](https://sipapp.io/) - 💰 $10.76 - The best way to collect, organize & share your colors.
 - [Teampaper Snap](http://teampaper.me/snap/) - Take a snapshot, highlight key areas and share your feedback in a matter of seconds.
@@ -20,6 +22,8 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [PixelSnap](https://getpixelsnap.com/) - 💰 $15 - The fastest way to measure everything on screen.
 - [Amphetamine](https://itunes.apple.com/ch/app/amphetamine/id937984704?mt=12) - Amphetamine is a little app that lives in your menu bar. With Amphetamine, you can effortlessly override your energy saver settings and keep your Mac awake.
 - [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
+- [1Password](https://1password.com/) - 1Password remembers them all for you. Save your passwords and log in to sites with a single click. It's that simple.
+- [LastPass](https://www.lastpass.com/) - LastPass remembers all your passwords, so you don't have to.
 
 ## Notes & Tasks
 - [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
@@ -33,25 +37,47 @@ These are some of the tools and configurations I use most in my everyday workflo
 ## Version Control
 - [Git Fork](https://git-fork.com/) - a fast and friendly git client for Mac and Windows.
 - [Source Tree](https://www.sourcetreeapp.com/) - A Git GUI that offers a visual representation of your repositories. Sourcetree is a free Git client for Windows and Mac.
+
 ## Development
 - [VSCode](https://code.visualstudio.com/) - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
-	- [Extenstions and Configuration](vscode/README.md)
+	- [Extensions and Configuration](vscode/README.md)
 - [Stylelint Configuration](stylelint/stylelint.json)
+
 ## Design
 - [Sketch](https://www.sketchapp.com/) - 💰 $99 - Sketch is a digital design toolkit built to help you create visuals from early ideas, through to final assets.
 - [InVision Studio](https://www.invisionapp.com/studio) - Rapid prototyping, animation, built-in design systems, and collaboration—all in one place.
+
 ## Design Collaboration
 - [InVision](https://www.invisionapp.com/) - InVision is a prototyping tool created for designers, by designers. It allows you to quickly and easily create interactive mockups for your designs.
 - [Marvel](https://marvelapp.com/) - Everything you need to bring ideas to life - wireframe, prototype and handoff to developers in one place.
+
 ## Icons
 - [The Noun Project](https://thenounproject.com/) - Over a million curated icons, created by a global community.
 - [Font Custom](https://rsp.github.io/fontcustom/) - Generate custom icon webfonts from the comfort of the command line.
 - [Nucleo](https://nucleoapp.com/) - Nucleo is a beautiful library of 24529 icons, and a powerful application to collect, customize and export all your icons.
+
 ## Stock Imagery
 - [Unsplash](https://unsplash.com/) - Beautiful, free photos. Gifted by the world’s most generous community of photographers.
 - [Pexels](https://www.pexels.com/) - Best free stock photos in one place.
 	- [Videos](https://videos.pexels.com/) - Completely free stock videos.
 - [Storyblocks](http://storyblocks.com/) - Choose from millions of images, video footage clips, After Effects templates, and audio tracks.
+
+## Chrome Extensions
+- [Floating for YouTube™](https://chrome.google.com/webstore/detail/floating-for-youtube-exte/egncdnniomonjgpjbapalkckojhkfddk) - This extension requires Floating for YouTube™ app. You can download it [here](https://chrome.google.com/webstore/detail/jjphmlaoffndcnecccgemfdaaoighkel).
+- [Reload CSS](https://chrome.google.com/webstore/detail/reload-css/bbmnfpjlilmepdmdmgmbecbcajoehnhe?hl=en) - Reload all stylesheets with a customizable keystroke (Alt-R by default).
+- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
+- [Whatruns](https://www.whatruns.com/) - Discover what runs a website.
+- [WhatFont](http://www.chengyinliu.com/whatfont.html) - WhatFont also detects services used for serving the font.
+- [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website.
+- [Muzli](https://muz.li/) - The best design inspiration - expertly curated for you.
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
+- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) - The most popular Chrome extension, with over 40 million users! Blocks ads all over the web.
+- [1Password](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk?hl=en) - Extends the 1Password app so you can fill and save passwords in your browser.
+- [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en) - Extends the LastPass app so you can fill and save passwords in your browser.
+- [RescueTime](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-and/bdakmnplckeopfghnlpocafcepegjeap) - Keep track of the time you spend in Chrome, and get a clear picture of what you were doing all day.
+- [Application Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh) - Open Drive files directly from your browser in compatible applications installed on your computer.
+- [Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) - Pocket Extension for Chrome - The best way to save articles, videos and more.
+
 ## Sketch Plugins
 - [Sketch Runner](https://sketchrunner.com/) - Speed up your Sketch workflow.
 - [Fluid for Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) - Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
