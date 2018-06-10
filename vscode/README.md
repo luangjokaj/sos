@@ -1,3 +1,66 @@
+# VSCode
+
+### Font - [Fira Code](https://github.com/tonsky/FiraCode)
+
+## Extenstions
+```
+2gua.rainbow-brackets
+EQuimper.react-native-react-redux
+HookyQR.beautify
+Serge.vsc-material-theme-italicize
+Zignd.html-css-class-completion
+adrianhumphreys2.silverstripe
+aeschli.vscode-css-formatter
+alefragnani.project-manager
+bierner.markdown-preview-github-styles
+bradgashler.htmltagwrap
+christian-kohler.path-intellisense
+clinyong.vscode-css-modules
+codezombiech.gitignore
+cpylua.language-postcss
+cssho.vscode-svgviewer
+dbaeumer.vscode-eslint
+dmitriy-lodyanov.vscode-stylefmt--pr-320
+dzannotti.vscode-babel-coloring
+eamodio.gitlens
+ecmel.vscode-html-css
+eg2.vscode-npm-script
+erichbehrens.pull-request-monitor
+esbenp.prettier-vscode
+felipecaputo.git-project-manager
+flowtype.flow-for-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+gayanhewa.referenceshelper
+gerane.Theme-Solarized-dark
+hosseinagha.vscode-open-react-component-style
+ionutvmi.path-autocomplete
+joshpeng.sublime-babel-vscode
+karyfoundation.theme-karyfoundation-themes
+leveluptutorials.theme-levelup
+mhmadhamster.postcss-language
+mikestead.dotenv
+mrcrowl.hg
+mrmlnc.vscode-less
+ms-mssql.mssql
+ms-python.python
+ms-vsliveshare.vsliveshare
+naumovs.color-highlight
+octref.vetur
+oderwat.indent-rainbow
+pranaygp.vscode-css-peek
+ricard.postcss
+robertohuertasm.vscode-icons
+shinnn.stylelint
+spywhere.guides
+stubailo.ignore-gitignore
+thenikso.github-plus-theme
+tht13.python
+tungvn.wordpress-snippet
+```
+
+## Configuration
+```
 {
 	"editor.minimap.enabled": true,
 	"files.exclude": {
@@ -74,15 +137,15 @@
 	],
 	"git.autofetch": true,
 	"flow.enabled": false,
-	"auto-rename-tag.activationOnLanguage": [
-		"html",
-		"js"
-	],
 	"gitlens.currentLine.enabled": true,
 	"gitlens.hovers.currentLine.enabled": true,
 	"gitlens.keymap": "chorded",
 	"telemetry.enableTelemetry": false,
 	"gitlens.advanced.telemetry.enabled": false,
 	"editor.tabSize": 4,
-	"editor.detectIndentation": false
+	"editor.detectIndentation": false,
+	"gitlens.historyExplorer.enabled": true,
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "Fira Code",
 }
+```
