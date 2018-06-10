@@ -1,4 +1,6 @@
 # sos ✌
+These are some of the tools and configurations I use most in my everyday workflow.
+
 ---
 ## Image Optimization Tools
 - [Optimage](https://getoptimage.com) - 💰 $15 - Free edition is only limited to 24 images per day.
