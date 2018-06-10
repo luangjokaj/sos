@@ -24,6 +24,8 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 - [1Password](https://1password.com/) - 1Password remembers them all for you. Save your passwords and log in to sites with a single click. It's that simple.
 - [LastPass](https://www.lastpass.com/) - LastPass remembers all your passwords, so you don't have to.
+- [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
+- [HandBrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 ## Notes & Tasks
 - [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
@@ -106,3 +108,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Sketch Text Styles Manager](https://gumroad.com/l/sketch-text-styles-manager) - 💰 $9.99 - No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.
 - [Unsplash it Sketch](https://github.com/fhuel/Unsplash-It-Sketch) - A plugin to quickly include great looking images from Unsplash in your Sketch projects. Because being able to quickly iterate on UI is important but also having great photography as placeholders.
 - [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
+
+## Virtualization
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Oracle VM VirtualBox is a free and open-source hypervisor for x86 computers.
+- [Parallels](https://www.parallels.com/) - 💰 $79.99 - The fastest, easiest, and most powerful application for running Windows® on Mac®.
