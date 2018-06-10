@@ -13,6 +13,23 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Sipapp](https://sipapp.io/) - 💰 $10.76 - The best way to collect, organize & share your colors.
 - [Teampaper Snap](http://teampaper.me/snap/) - Take a snapshot, highlight key areas and share your feedback in a matter of seconds.
 - [BetterSnapTool](https://itunes.apple.com/ch/app/bettersnaptool/id417375580?mt=12) - BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen.
+- [iStat Menus](https://bjango.com/mac/istatmenus/) - 💰 $16.14 - An advanced Mac system monitor for your menubar.
+- [Alfred](https://www.alfredapp.com/) - 💰 $19 - Boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
+- [Gapplin](http://gapplin.wolfrosch.com/) - This application has features especially for designers, who treat SVG images in their works. It's the perfect way to use Gapplin as a live-previewer for SVG images besides editing them in your text editor.
+- [Gif Brewery](http://gifbrewery.com/) - Creating fine-crafted GIFs for Mac.
+- [PixelSnap](https://getpixelsnap.com/) - 💰 $15 - The fastest way to measure everything on screen.
+- [Amphetamine](https://itunes.apple.com/ch/app/amphetamine/id937984704?mt=12) - Amphetamine is a little app that lives in your menu bar. With Amphetamine, you can effortlessly override your energy saver settings and keep your Mac awake.
+- [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
+
+## Notes & Tasks
+- [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+- [Trello](https://trello.com/) - Trello keeps track of everything, from the big picture to the minute details.
+- [Bear Notes](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
+
+## Time Trackers
+- [RescueTime](https://www.rescuetime.com/) - A personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
+- [Harvest](http://harvestapp.com/) - Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing. Get started for free.
+
 ## Version Control
 - [Git Fork](https://git-fork.com/) - a fast and friendly git client for Mac and Windows.
 - [Source Tree](https://www.sourcetreeapp.com/) - A Git GUI that offers a visual representation of your repositories. Sourcetree is a free Git client for Windows and Mac.
