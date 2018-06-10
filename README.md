@@ -4,9 +4,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 ---
 ## Image Optimization Tools
 - [Optimage](https://getoptimage.com) - 💰 $15 - Free edition is only limited to 24 images per day.
-- [SVGOMG](https://jakearchibald.github.io/svgomg/) - 
-SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
-- [SVGO-Compressor](https://github.com/BohemianCoding/svgo-compressor) - A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
 - [UPNG](http://upng.photopea.com/) - Shrink and optimize images. Set the ideal balance between the quality and the size.
 ## Mac OS Apps
 - [Custom Settings & Preferences](mac/README.md) - Quick hacks for system preferences.
@@ -37,3 +35,31 @@ SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the conf
 - [Pexels](https://www.pexels.com/) - Best free stock photos in one place.
 	- [Videos](https://videos.pexels.com/) - Completely free stock videos.
 - [Storyblocks](http://storyblocks.com/) - Choose from millions of images, video footage clips, After Effects templates, and audio tracks.
+## Sketch Plugins
+- [Sketch Runner](https://sketchrunner.com/) - Speed up your Sketch workflow.
+- [Fluid for Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) - Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
+- [Comma](https://github.com/margusholland/Comma) - Select text layers, layer groups or artboards to change the text.
+- [Confetti](http://www.sketchconfetti.com/) - Generate gorgeous confetti patterns in 1 click.
+- [Craft](https://www.invisionapp.com/craft) - Craft is a suite of plugins to let you design with real data in mind. 
+- [FontBuddy](http://fontbuddy.co/) - Install missing fonts directly from Sketch.
+- [FontRapid](https://fontrapid.com/) - Design and create fonts directly in Sketch.
+- [Looper](https://github.com/sureskumar/Looper) - Looper is a sketch plugin that helps automate duplication of groups and layers.
+- [Map Generator](https://github.com/eddiesigner/sketch-map-generator) - Design beautiful map interfaces, mobile applications and more in less time with Map Generator 2.0. Now powered by Google and Mapbox.
+- [Marvel for Sketch](https://marvelapp.com/sketch/) - Sync designs. Play prototypes. Record flows.
+- [Material Theme Editor](https://material.io/tools/theme-editor/) - Create and customize your Material theme.
+- [Midnight](https://midnightsketch.com/) - Midnight adds a dark theme to Sketch. Bonus features include layer tags, indent guides, custom selection color, custom canvas darkness, and more.
+- [Mockuuups Studio](https://mockuuups.studio/sketch) - Turn Sketch artboards into perspective mockups.
+- [Paddy](https://github.com/DWilliames/paddy-sketch-plugin) - Automated padding, spacing and alignment for your Sketch layers.
+- [RenameIt](https://rodi01.github.io/RenameIt/) - Sequentially rename layers in either ascending or descending order.
+- [Separate Shapes](https://github.com/PEZ/SketchSeparateShapes) - A plugin for ”boolean” separating of overlapping shapes. Similar to divide in Adobe Illustrator's Pathfinder.
+- [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles) - A Sketch plugin that lets you import & export text styles throughout different Sketch documents.
+- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) - https://github.com/andrewfiorillo/sketch-palettes.
+- [Sketch Syntax Highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) - Automatically highlight the syntax of any code block, right within Sketch.
+- [Style Master](https://github.com/aparajita/sketch-style-master) - Sketch plugin for renaming shared styles.
+- [SVG Insert](https://github.com/tankxu/SVG-Insert) - Use this plugin to help you save time from copy a svg graph on web into sketch.
+- [SVGO-Compressor](https://github.com/BohemianCoding/svgo-compressor) - A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
+- [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - Organize your symbols page alphabetically (including layer list) and into groupings determined by your symbol names.
+- [Sketch Symbols Manager](https://gumroad.com/l/sketch-symbols-manager) - 💰 $9.99 - A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.
+- [Sketch Text Styles Manager](https://gumroad.com/l/sketch-text-styles-manager) - 💰 $9.99 - No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.
+- [Unsplash it Sketch](https://github.com/fhuel/Unsplash-It-Sketch) - A plugin to quickly include great looking images from Unsplash in your Sketch projects. Because being able to quickly iterate on UI is important but also having great photography as placeholders.
+- [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
