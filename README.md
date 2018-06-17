@@ -26,6 +26,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [LastPass](https://www.lastpass.com/) - LastPass remembers all your passwords, so you don't have to.
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
 - [HandBrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [MacTracker](http://mactracker.ca/) - Mactracker provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
 
 ## Notes & Tasks
 - [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
