@@ -147,5 +147,6 @@ tungvn.wordpress-snippet
 	"gitlens.historyExplorer.enabled": true,
 	"editor.fontLigatures": true,
 	"editor.fontFamily": "Fira Code",
+	"gitlens.gitExplorer.files.layout": "tree",
 }
 ```
