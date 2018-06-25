@@ -149,5 +149,9 @@ tungvn.wordpress-snippet
 	"editor.fontFamily": "Fira Code",
 	"gitlens.gitExplorer.files.layout": "tree",
 	"prettier.stylelintIntegration": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 100,
+	"prettier.trailingComma": "es5",
 }
 ```
