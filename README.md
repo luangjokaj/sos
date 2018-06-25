@@ -43,8 +43,9 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 ## Development
 - [VSCode](https://code.visualstudio.com/) - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
-	- [Extensions and Configuration](vscode/README.md)
-- [Stylelint Configuration](stylelint/stylelint.json)
+- [Extensions and Configuration](development/vscode/README.md)
+- [Stylelint Configuration](development/stylelint/stylelint.json)
+- [Prettier Configuration](development/prettierrc/.prettierrc.js)
 
 ## Design
 - [Sketch](https://www.sketchapp.com/) - 💰 $99 - Sketch is a digital design toolkit built to help you create visuals from early ideas, through to final assets.
