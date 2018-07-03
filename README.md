@@ -109,6 +109,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Sketch Text Styles Manager](https://gumroad.com/l/sketch-text-styles-manager) - 💰 $9.99 - No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.
 - [Unsplash it Sketch](https://github.com/fhuel/Unsplash-It-Sketch) - A plugin to quickly include great looking images from Unsplash in your Sketch projects. Because being able to quickly iterate on UI is important but also having great photography as placeholders.
 - [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
+- [UI Faces](https://uifaces.co/sketch-plugin) - Generate avatars directly to your project without leaving Sketch.
 
 ## Virtualization
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Oracle VM VirtualBox is a free and open-source hypervisor for x86 computers.
