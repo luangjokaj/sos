@@ -92,7 +92,7 @@ tungvn.wordpress-snippet
 	"stylelint.config": {
 		"extends": "/Users/luangjokaj/staticweb-build/tools/stylelintrc.json"
 	},
-	"editor.formatOnSave": false,
+	"editor.formatOnSave": true,
 	"files.associations": {
 		"*.css": "postcss",
 		"*.js": "javascriptreact"
@@ -153,5 +153,6 @@ tungvn.wordpress-snippet
 	"prettier.useTabs": true,
 	"prettier.printWidth": 100,
 	"prettier.trailingComma": "es5",
+	"terminal.integrated.rendererType": "dom",
 }
 ```
