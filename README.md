@@ -107,7 +107,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Map Generator](https://github.com/eddiesigner/sketch-map-generator) - Design beautiful map interfaces, mobile applications and more in less time with Map Generator 2.0. Now powered by Google and Mapbox.
 - [Marvel for Sketch](https://marvelapp.com/sketch/) - Sync designs. Play prototypes. Record flows.
 - [Material Theme Editor](https://material.io/tools/theme-editor/) - Create and customize your Material theme.
-- [Midnight](https://midnightsketch.com/) - Midnight adds a dark theme to Sketch. Bonus features include layer tags, indent guides, custom selection color, custom canvas darkness, and more.
+- [Midnight](https://midnightsketch.com/) - 💰 $8 - Midnight adds a dark theme to Sketch. Bonus features include layer tags, indent guides, custom selection color, custom canvas darkness, and more.
 - [Mockuuups Studio](https://mockuuups.studio/sketch) - Turn Sketch artboards into perspective mockups.
 - [Paddy](https://github.com/DWilliames/paddy-sketch-plugin) - Automated padding, spacing and alignment for your Sketch layers.
 - [RenameIt](https://rodi01.github.io/RenameIt/) - Sequentially rename layers in either ascending or descending order.
