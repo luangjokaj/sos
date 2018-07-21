@@ -33,6 +33,13 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [MacTracker](http://mactracker.ca/) - Mactracker provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
 - [CleanMyMac](https://macpaw.com/download/cleanmymac) Clean, optimize, and maintain your Mac with CleanMyMac 3. It scans every inch of your system, runs maintenance tasks, and keeps an eye on your Mac’s health.-
 
+## Terminal
+
+- [iTerm](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal. Brings the terminal into the modern age with features you never knew you always wanted.
+- [Oh My ZSH](https://ohmyz.sh/) - Oh My Zsh omes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout...
+	- Theme: [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
+	- Fonts: [Powerline-patched font](https://github.com/powerline/fonts)
+
 ## Notes & Tasks
 
 - [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
