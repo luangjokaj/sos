@@ -31,14 +31,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
 - [HandBrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MacTracker](http://mactracker.ca/) - Mactracker provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
-- [CleanMyMac](https://macpaw.com/download/cleanmymac) Clean, optimize, and maintain your Mac with CleanMyMac 3. It scans every inch of your system, runs maintenance tasks, and keeps an eye on your Mac’s health.-
-
-## Terminal
-
-- [iTerm](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal. Brings the terminal into the modern age with features you never knew you always wanted.
-- [Oh My ZSH](https://ohmyz.sh/) - Oh My Zsh omes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout...
-	- Theme: [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
-	- Fonts: [Powerline-patched font](https://github.com/powerline/fonts)
+- [CleanMyMac](https://macpaw.com/download/cleanmymac) Clean, optimize, and maintain your Mac with CleanMyMac 3. It scans every inch of your system, runs maintenance tasks, and keeps an eye on your Mac’s health.
 
 ## Notes & Tasks
 
@@ -51,6 +44,13 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [RescueTime](https://www.rescuetime.com/) - A personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
 - [Harvest](http://harvestapp.com/) - Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing. Get started for free.
 
+## Terminal
+
+- [iTerm](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal. Brings the terminal into the modern age with features you never knew you always wanted.
+- [Oh My ZSH](https://ohmyz.sh/) - Oh My Zsh omes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout...
+	- Theme: [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
+	- Fonts: [Powerline-patched font](https://github.com/powerline/fonts)
+
 ## Version Control
 
 - [Git Fork](https://git-fork.com/) - a fast and friendly git client for Mac and Windows.
@@ -59,7 +59,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 ## Development
 
 - [VSCode](https://code.visualstudio.com/) - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
-- [Extensions and Configuration](development/vscode/README.md)
+	- [Extensions and Configuration](development/vscode/README.md)
 - [Stylelint Configuration](development/stylelint/stylelint.json)
 
 ## Design
