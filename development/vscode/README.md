@@ -3,14 +3,10 @@
 ### Font - [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Extenstions
+
 ```
 2gua.rainbow-brackets
-EQuimper.react-native-react-redux
-HookyQR.beautify
-Serge.vsc-material-theme-italicize
-Zignd.html-css-class-completion
-adrianhumphreys2.silverstripe
-aeschli.vscode-css-formatter
+adrian.silverstripe
 alefragnani.project-manager
 bierner.markdown-preview-github-styles
 bradgashler.htmltagwrap
@@ -18,48 +14,32 @@ christian-kohler.path-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
 cpylua.language-postcss
-cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
 dmitriy-lodyanov.vscode-stylefmt--pr-320
 dzannotti.vscode-babel-coloring
 eamodio.gitlens
 ecmel.vscode-html-css
-eg2.vscode-npm-script
 erichbehrens.pull-request-monitor
 esbenp.prettier-vscode
 felipecaputo.git-project-manager
 flowtype.flow-for-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
-gayanhewa.referenceshelper
-gerane.Theme-Solarized-dark
-hosseinagha.vscode-open-react-component-style
+HookyQR.beautify
 ionutvmi.path-autocomplete
 joshpeng.sublime-babel-vscode
-karyfoundation.theme-karyfoundation-themes
-leveluptutorials.theme-levelup
-mhmadhamster.postcss-language
 mikestead.dotenv
-mrcrowl.hg
-mrmlnc.vscode-less
-ms-mssql.mssql
-ms-python.python
-ms-vsliveshare.vsliveshare
 naumovs.color-highlight
-octref.vetur
 oderwat.indent-rainbow
-pranaygp.vscode-css-peek
 ricard.postcss
 robertohuertasm.vscode-icons
 shinnn.stylelint
 spywhere.guides
-stubailo.ignore-gitignore
-thenikso.github-plus-theme
-tht13.python
-tungvn.wordpress-snippet
+traBpUkciP.vscode-npm-scripts
 ```
 
 ## Configuration
+
 ```
 {
 	"editor.minimap.enabled": true,
@@ -90,7 +70,7 @@ tungvn.wordpress-snippet
 	"editor.formatOnPaste": false,
 	"window.zoomLevel": 0,
 	"stylelint.config": {
-		"extends": "/Users/luangjokaj/staticweb-build/tools/stylelintrc.json"
+		"extends": "/Users/luangjokaj/dev/sos/development/stylelint/stylelint.json"
 	},
 	"editor.formatOnSave": true,
 	"files.associations": {
@@ -98,7 +78,6 @@ tungvn.wordpress-snippet
 		"*.js": "javascriptreact"
 	},
 	"path-intellisense.showHiddenFiles": true,
-	"postcss.validate": false,
 	"workbench.iconTheme": "vscode-icons",
 	"workbench.startupEditor": "newUntitledFile",
 	"git.confirmSync": false,
@@ -153,6 +132,6 @@ tungvn.wordpress-snippet
 	"prettier.useTabs": true,
 	"prettier.printWidth": 100,
 	"prettier.trailingComma": "es5",
-	"terminal.integrated.rendererType": "dom",
+	"terminal.integrated.rendererType": "dom"
 }
 ```
