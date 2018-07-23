@@ -73,6 +73,9 @@ traBpUkciP.vscode-npm-scripts
 		"extends": "/Users/luangjokaj/dev/sos/development/stylelint/stylelint.json"
 	},
 	"editor.formatOnSave": true,
+	"[markdown]": {
+		"editor.formatOnSave": false
+	},
 	"files.associations": {
 		"*.css": "postcss",
 		"*.js": "javascriptreact"
@@ -132,6 +135,7 @@ traBpUkciP.vscode-npm-scripts
 	"prettier.useTabs": true,
 	"prettier.printWidth": 100,
 	"prettier.trailingComma": "es5",
-	"terminal.integrated.rendererType": "dom"
+	"terminal.integrated.rendererType": "dom",
+	"postcss.validate": false,
 }
 ```
