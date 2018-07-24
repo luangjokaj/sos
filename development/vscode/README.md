@@ -28,7 +28,9 @@ formulahendry.auto-rename-tag
 HookyQR.beautify
 ionutvmi.path-autocomplete
 joshpeng.sublime-babel-vscode
+mhmadhamster.postcss-language
 mikestead.dotenv
+mrmlnc.vscode-less
 naumovs.color-highlight
 oderwat.indent-rainbow
 ricard.postcss
@@ -36,6 +38,7 @@ robertohuertasm.vscode-icons
 shinnn.stylelint
 spywhere.guides
 traBpUkciP.vscode-npm-scripts
+Zignd.html-css-class-completion
 ```
 
 ## Configuration
