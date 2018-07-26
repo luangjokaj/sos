@@ -30,6 +30,7 @@ ionutvmi.path-autocomplete
 joshpeng.sublime-babel-vscode
 mhmadhamster.postcss-language
 mikestead.dotenv
+mrmlnc.vscode-apache
 mrmlnc.vscode-less
 naumovs.color-highlight
 oderwat.indent-rainbow
@@ -38,6 +39,7 @@ robertohuertasm.vscode-icons
 shinnn.stylelint
 spywhere.guides
 traBpUkciP.vscode-npm-scripts
+wix.vscode-import-cost
 Zignd.html-css-class-completion
 ```
 
