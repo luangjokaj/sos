@@ -5,15 +5,17 @@
 ## Extenstions
 
 ```
-2gua.rainbow-brackets
+gua.rainbow-brackets
 adrian.silverstripe
 alefragnani.project-manager
 bierner.markdown-preview-github-styles
+blairleduc.touch-bar-display
 bradgashler.htmltagwrap
 christian-kohler.path-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
 cpylua.language-postcss
+cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
 dmitriy-lodyanov.vscode-stylefmt--pr-320
 dzannotti.vscode-babel-coloring
@@ -27,6 +29,7 @@ formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 HookyQR.beautify
 ionutvmi.path-autocomplete
+jock.svg
 joshpeng.sublime-babel-vscode
 mhmadhamster.postcss-language
 mikestead.dotenv
@@ -139,7 +142,7 @@ Zignd.html-css-class-completion
 	"prettier.singleQuote": true,
 	"prettier.useTabs": true,
 	"prettier.printWidth": 100,
-	"prettier.trailingComma": "es5",
+	"prettier.trailingComma": "all",
 	"terminal.integrated.rendererType": "dom",
 	"postcss.validate": false,
 }
