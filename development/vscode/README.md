@@ -5,7 +5,7 @@
 ## Extenstions
 
 ```
-gua.rainbow-brackets
+2gua.rainbow-brackets
 adrian.silverstripe
 alefragnani.project-manager
 bierner.markdown-preview-github-styles
@@ -14,6 +14,7 @@ bradgashler.htmltagwrap
 christian-kohler.path-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
+cospaia.calva-fmt
 cpylua.language-postcss
 cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
@@ -33,8 +34,10 @@ jock.svg
 joshpeng.sublime-babel-vscode
 mhmadhamster.postcss-language
 mikestead.dotenv
+mrcrowl.hg
 mrmlnc.vscode-apache
 mrmlnc.vscode-less
+ms-python.python
 naumovs.color-highlight
 oderwat.indent-rainbow
 ricard.postcss
@@ -145,5 +148,7 @@ Zignd.html-css-class-completion
 	"prettier.trailingComma": "all",
 	"terminal.integrated.rendererType": "dom",
 	"postcss.validate": false,
+	"html.validate.scripts": false,
+	"clojureVSCode.formatOnSave": true,
 }
 ```
