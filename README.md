@@ -34,6 +34,8 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [HandBrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MacTracker](http://mactracker.ca/) - Mactracker provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
 - [CleanMyMac](https://macpaw.com/download/cleanmymac) Clean, optimize, and maintain your Mac with CleanMyMac 3. It scans every inch of your system, runs maintenance tasks, and keeps an eye on your Mac’s health.
+- [TablePlus](https://tableplus.io/) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+- [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation.
 
 ## 📓 Notes & Tasks
 
