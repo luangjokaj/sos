@@ -140,3 +140,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Oracle VM VirtualBox is a free and open-source hypervisor for x86 computers.
 - [Parallels](https://www.parallels.com/) - 💰 $79.99 - The fastest, easiest, and most powerful application for running Windows® on Mac®.
+
+## 😈 Windows
+
+- [Windows 10 Custom Cursors](http://www.michieldb.nl/other/cursors/) - A cursor design that looks good in high-DPI scaling.
