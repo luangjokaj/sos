@@ -7,6 +7,7 @@
 ```
 2gua.rainbow-brackets
 adrian.silverstripe
+afnizarnur.framer-snippets-vscode
 alefragnani.project-manager
 bierner.markdown-preview-github-styles
 blairleduc.touch-bar-display
@@ -19,24 +20,32 @@ cpylua.language-postcss
 cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
 dmitriy-lodyanov.vscode-stylefmt--pr-320
+dsznajder.es7-react-js-snippets
 dzannotti.vscode-babel-coloring
 eamodio.gitlens
 ecmel.vscode-html-css
 erichbehrens.pull-request-monitor
 esbenp.prettier-vscode
+fabiospampinato.vscode-highlight
 felipecaputo.git-project-manager
 flowtype.flow-for-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
+Framer.framer-syntax
+GitHub.vscode-pull-request-github
+hemlok.framer-dark
 HookyQR.beautify
 ionutvmi.path-autocomplete
 jock.svg
 joshpeng.sublime-babel-vscode
+jpoissonnier.vscode-styled-components
 mhmadhamster.postcss-language
+michelemelluso.code-beautifier
 mikestead.dotenv
 mrcrowl.hg
 mrmlnc.vscode-apache
 mrmlnc.vscode-less
+ms-mssql.mssql
 ms-python.python
 naumovs.color-highlight
 oderwat.indent-rainbow
@@ -44,6 +53,7 @@ ricard.postcss
 robertohuertasm.vscode-icons
 shinnn.stylelint
 spywhere.guides
+stubailo.ignore-gitignore
 traBpUkciP.vscode-npm-scripts
 wix.vscode-import-cost
 Zignd.html-css-class-completion
@@ -78,12 +88,10 @@ Zignd.html-css-class-completion
 	"javascript.validate.enable": false,
 	"editor.cursorStyle": "line",
 	"editor.smoothScrolling": true,
-	"editor.formatOnPaste": false,
 	"window.zoomLevel": 0,
 	"stylelint.config": {
 		"extends": "/Users/luangjokaj/dev/sos/development/stylelint/stylelint.json"
 	},
-	"editor.formatOnSave": true,
 	"[markdown]": {
 		"editor.formatOnSave": false
 	},
@@ -150,5 +158,43 @@ Zignd.html-css-class-completion
 	"postcss.validate": false,
 	"html.validate.scripts": false,
 	"clojureVSCode.formatOnSave": true,
+	"html.format.enable": false,
+	"breadcrumbs.enabled": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"githubPullRequests.hosts": [{
+		"host": "https://github.com",
+		"username": "oauth",
+		"token": "system"
+	}],
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"highlight.regexes": {
+		"(// ?TODO:?)(.*)": [{
+				"overviewRulerColor": "#ffcc00",
+				"backgroundColor": "#ffcc00",
+				"color": "#1f1f1f",
+				"fontWeight": "bold"
+			},
+			{
+				"backgroundColor": "#d9ad00",
+				"color": "#1f1f1f"
+			}
+		],
+		"(// ?FIXME:?)(.*)": [{
+				"overviewRulerColor": "#ff0000",
+				"backgroundColor": "#ff0000",
+				"color": "#1f1f1f",
+				"fontWeight": "bold"
+			},
+			{
+				"backgroundColor": "#d90000",
+				"color": "#1f1f1f"
+			}
+		],
+		"(// )(@\\w+)": [{},
+			{
+				"color": "#4de0ff"
+			}
+		]
+	}
 }
 ```
