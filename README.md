@@ -53,7 +53,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Harvest](http://harvestapp.com/) - Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing. Get started for free.
 
 ## ⛑ Terminal
-
+- [Tower](https://www.git-tower.com/) - 💰 $69/Year - The most powerful Git client for Mac and Windows.
 - [iTerm](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal. Brings the terminal into the modern age with features you never knew you always wanted.
 	- [Colors](./development/iterm/Framer-Syntax.itermcolors)
 - [Oh My ZSH](https://ohmyz.sh/) - Oh My Zsh omes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout...
