@@ -8,6 +8,7 @@
 2gua.rainbow-brackets
 adrian.silverstripe
 afnizarnur.framer-snippets-vscode
+alefragnani.Bookmarks
 alefragnani.project-manager
 bierner.markdown-preview-github-styles
 blairleduc.touch-bar-display
@@ -45,10 +46,12 @@ mikestead.dotenv
 mrcrowl.hg
 mrmlnc.vscode-apache
 mrmlnc.vscode-less
+mrorz.language-gettext
 ms-mssql.mssql
 ms-python.python
 naumovs.color-highlight
 oderwat.indent-rainbow
+philsinatra.macos-dark-mode-theme
 ricard.postcss
 robertohuertasm.vscode-icons
 shinnn.stylelint
@@ -56,6 +59,7 @@ spywhere.guides
 stubailo.ignore-gitignore
 traBpUkciP.vscode-npm-scripts
 wix.vscode-import-cost
+zhuangtongfa.Material-theme
 Zignd.html-css-class-completion
 ```
 
@@ -81,7 +85,7 @@ Zignd.html-css-class-completion
 		"**/bower_components/**": true,
 		"**/build/**": true
 	},
-	"workbench.colorTheme": "Solarized Dark",
+	"workbench.colorTheme": "Framer Dark",
 	"editor.insertSpaces": false,
 	"editor.renderWhitespace": "all",
 	"javascript.referencesCodeLens.enabled": true,
@@ -161,11 +165,6 @@ Zignd.html-css-class-completion
 	"html.format.enable": false,
 	"breadcrumbs.enabled": true,
 	"javascript.updateImportsOnFileMove.enabled": "always",
-	"githubPullRequests.hosts": [{
-		"host": "https://github.com",
-		"username": "oauth",
-		"token": "system"
-	}],
 	"typescript.updateImportsOnFileMove.enabled": "always",
 	"highlight.regexes": {
 		"(// ?TODO:?)(.*)": [{
@@ -195,6 +194,9 @@ Zignd.html-css-class-completion
 				"color": "#4de0ff"
 			}
 		]
-	}
+	},
+	"gitlens.views.repositories.files.layout": "tree",
+	"gitlens.views.fileHistory.enabled": true,
+	"gitlens.views.lineHistory.enabled": true
 }
 ```
