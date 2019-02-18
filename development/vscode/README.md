@@ -17,6 +17,8 @@ christian-kohler.path-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
 cospaia.calva-fmt
+cospaia.clojure4vscode
+cospaia.paredit-revived
 cpylua.language-postcss
 cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
@@ -40,6 +42,7 @@ ionutvmi.path-autocomplete
 jock.svg
 joshpeng.sublime-babel-vscode
 jpoissonnier.vscode-styled-components
+kamikillerto.vscode-colorize
 mhmadhamster.postcss-language
 michelemelluso.code-beautifier
 mikestead.dotenv
@@ -49,6 +52,7 @@ mrmlnc.vscode-less
 mrorz.language-gettext
 ms-mssql.mssql
 ms-python.python
+ms-vsliveshare.vsliveshare
 naumovs.color-highlight
 oderwat.indent-rainbow
 philsinatra.macos-dark-mode-theme
@@ -85,7 +89,7 @@ Zignd.html-css-class-completion
 		"**/bower_components/**": true,
 		"**/build/**": true
 	},
-	"workbench.colorTheme": "Framer Dark",
+	"workbench.colorTheme": "Solarized Dark",
 	"editor.insertSpaces": false,
 	"editor.renderWhitespace": "all",
 	"javascript.referencesCodeLens.enabled": true,
