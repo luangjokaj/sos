@@ -57,12 +57,13 @@ naumovs.color-highlight
 oderwat.indent-rainbow
 philsinatra.macos-dark-mode-theme
 ricard.postcss
-robertohuertasm.vscode-icons
 shinnn.stylelint
 spywhere.guides
 stubailo.ignore-gitignore
 traBpUkciP.vscode-npm-scripts
+vscode-icons-team.vscode-icons
 wix.vscode-import-cost
+yorkxin.coffeescript-support
 zhuangtongfa.Material-theme
 Zignd.html-css-class-completion
 ```
