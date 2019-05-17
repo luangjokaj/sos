@@ -10,6 +10,7 @@ adrian.silverstripe
 afnizarnur.framer-snippets-vscode
 alefragnani.Bookmarks
 alefragnani.project-manager
+attilabuti.vscode-mjml
 bierner.markdown-preview-github-styles
 blairleduc.touch-bar-display
 bradgashler.htmltagwrap
@@ -56,10 +57,13 @@ ms-vsliveshare.vsliveshare
 naumovs.color-highlight
 oderwat.indent-rainbow
 philsinatra.macos-dark-mode-theme
+pnp.polacode
 ricard.postcss
+samuelcolvin.jinjahtml
 shinnn.stylelint
 spywhere.guides
 stubailo.ignore-gitignore
+Toxblh.polacode-fork
 traBpUkciP.vscode-npm-scripts
 vscode-icons-team.vscode-icons
 wix.vscode-import-cost
