@@ -6,7 +6,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 ## 🌁 Image Optimization Tools
 
-- [Optimage](https://getoptimage.com) - 💰 $15 - Free edition is only limited to 24 images per day.
+- [NXPowerLite](https://www.neuxpower.com/compress-jpeg-mac) - 💰 $47 - Compress: PDF, Word, PowerPoint, Excel and JPEG.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
 - [UPNG](http://upng.photopea.com/) - Shrink and optimize images. Set the ideal balance between the quality and the size.
 

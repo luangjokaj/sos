@@ -61,6 +61,7 @@ pnp.polacode
 ricard.postcss
 samuelcolvin.jinjahtml
 shinnn.stylelint
+sleistner.vscode-fileutils
 spywhere.guides
 stubailo.ignore-gitignore
 Toxblh.polacode-fork
@@ -113,7 +114,6 @@ Zignd.html-css-class-completion
 		"*.js": "javascriptreact"
 	},
 	"path-intellisense.showHiddenFiles": true,
-	"workbench.iconTheme": "vscode-icons",
 	"workbench.startupEditor": "newUntitledFile",
 	"git.confirmSync": false,
 	"emmet.triggerExpansionOnTab": true,
@@ -156,10 +156,8 @@ Zignd.html-css-class-completion
 	"telemetry.enableTelemetry": false,
 	"gitlens.advanced.telemetry.enabled": false,
 	"editor.tabSize": 4,
-	"editor.detectIndentation": false,
 	"editor.fontLigatures": true,
 	"editor.fontFamily": "Fira Code",
-	"prettier.stylelintIntegration": true,
 	"prettier.singleQuote": true,
 	"prettier.useTabs": true,
 	"prettier.printWidth": 100,
@@ -202,6 +200,24 @@ Zignd.html-css-class-completion
 	},
 	"gitlens.views.repositories.files.layout": "tree",
 	"gitlens.views.fileHistory.enabled": true,
-	"gitlens.views.lineHistory.enabled": true
+	"gitlens.views.lineHistory.enabled": true,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"[postcss]": {
+		"editor.defaultFormatter": "dmitriy-lodyanov.vscode-stylefmt--pr-320"
+	},
+	"diffEditor.ignoreTrimWhitespace": false,
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.stylelintIntegration": true,
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.iconTheme": "vscode-icons"
 }
 ```
