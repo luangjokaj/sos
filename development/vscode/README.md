@@ -10,7 +10,6 @@ adrian.silverstripe
 afnizarnur.framer-snippets-vscode
 alefragnani.Bookmarks
 alefragnani.project-manager
-attilabuti.vscode-mjml
 bierner.markdown-preview-github-styles
 blairleduc.touch-bar-display
 bradgashler.htmltagwrap
@@ -36,14 +35,13 @@ flowtype.flow-for-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 Framer.framer-syntax
-GitHub.vscode-pull-request-github
 hemlok.framer-dark
-HookyQR.beautify
 ionutvmi.path-autocomplete
 jock.svg
 joshpeng.sublime-babel-vscode
 jpoissonnier.vscode-styled-components
 kamikillerto.vscode-colorize
+killalau.vscode-liquid-snippets
 mhmadhamster.postcss-language
 michelemelluso.code-beautifier
 mikestead.dotenv
@@ -55,12 +53,13 @@ ms-mssql.mssql
 ms-python.python
 ms-vsliveshare.vsliveshare
 naumovs.color-highlight
+neilding.language-liquid
 oderwat.indent-rainbow
-philsinatra.macos-dark-mode-theme
 pnp.polacode
 ricard.postcss
 samuelcolvin.jinjahtml
 shinnn.stylelint
+sissel.shopify-liquid
 sleistner.vscode-fileutils
 spywhere.guides
 stubailo.ignore-gitignore
@@ -95,7 +94,6 @@ Zignd.html-css-class-completion
 		"**/bower_components/**": true,
 		"**/build/**": true
 	},
-	"workbench.colorTheme": "Solarized Dark",
 	"editor.insertSpaces": false,
 	"editor.renderWhitespace": "all",
 	"javascript.referencesCodeLens.enabled": true,
@@ -103,15 +101,13 @@ Zignd.html-css-class-completion
 	"editor.cursorStyle": "line",
 	"editor.smoothScrolling": true,
 	"window.zoomLevel": 0,
-	"stylelint.config": {
-		"extends": "/Users/luangjokaj/dev/sos/development/stylelint/stylelint.json"
-	},
 	"[markdown]": {
 		"editor.formatOnSave": false
 	},
 	"files.associations": {
 		"*.css": "postcss",
-		"*.js": "javascriptreact"
+		"*.js": "javascriptreact",
+		"*.tsx": "typescriptreact"
 	},
 	"path-intellisense.showHiddenFiles": true,
 	"workbench.startupEditor": "newUntitledFile",
@@ -204,9 +200,6 @@ Zignd.html-css-class-completion
 	"[javascriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"[html]": {
-		"editor.defaultFormatter": "HookyQR.beautify"
-	},
 	"[postcss]": {
 		"editor.defaultFormatter": "dmitriy-lodyanov.vscode-stylefmt--pr-320"
 	},
@@ -214,10 +207,16 @@ Zignd.html-css-class-completion
 	"[typescriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"prettier.stylelintIntegration": true,
 	"[json]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"workbench.iconTheme": "vscode-icons"
+	"workbench.iconTheme": "vscode-icons",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.colorTheme": "Solarized Dark",
+	"[scss]": {
+		"editor.defaultFormatter": "michelemelluso.code-beautifier"
+	},
 }
 ```
