@@ -1,7 +1,7 @@
 {
   "alfredtheme" : {
     "result" : {
-      "textSpacing" : 5,
+      "textSpacing" : 8,
       "subtext" : {
         "size" : 12,
         "colorSelected" : "#FFFFFFCC",
@@ -16,18 +16,18 @@
       },
       "backgroundSelected" : "#FEFFFE33",
       "text" : {
-        "size" : 18,
+        "size" : 19,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System",
         "color" : "#FFFFFFD8"
       },
       "iconPaddingHorizontal" : 4,
-      "paddingVertical" : 3,
+      "paddingVertical" : 6,
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 4,
-      "background" : "#00000000",
+      "paddingVertical" : 13,
+      "background" : "#3FEDC000",
       "spacing" : 4,
       "text" : {
         "size" : 34,
@@ -40,12 +40,12 @@
     "window" : {
       "color" : "#000000B2",
       "paddingHorizontal" : 0,
-      "width" : 559,
+      "width" : 557,
       "borderPadding" : 0,
       "borderColor" : "#00000000",
       "blur" : 18,
-      "roundness" : 3,
-      "paddingVertical" : 4
+      "roundness" : 9,
+      "paddingVertical" : 0
     },
     "credit" : "Luan Gjokaj",
     "separator" : {
@@ -54,7 +54,7 @@
     },
     "scrollbar" : {
       "color" : "#6D6D6DFF",
-      "thickness" : 2
+      "thickness" : 7
     },
     "name" : "Darker"
   }

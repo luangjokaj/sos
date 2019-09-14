@@ -218,5 +218,8 @@ Zignd.html-css-class-completion
 	"[scss]": {
 		"editor.defaultFormatter": "michelemelluso.code-beautifier"
 	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
 }
 ```
