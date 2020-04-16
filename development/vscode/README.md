@@ -77,6 +77,7 @@ Zignd.html-css-class-completion
 ```
 {
 	"editor.minimap.enabled": true,
+	"editor.maxTokenizationLineLength": 5000,
 	"files.exclude": {
 		"**/tmp": true,
 		"**/node_modules": true,
@@ -115,7 +116,6 @@ Zignd.html-css-class-completion
 	"emmet.triggerExpansionOnTab": true,
 	"editor.wordWrap": "on",
 	"git.enableSmartCommit": true,
-	"eslint.autoFixOnSave": true,
 	"emmet.includeLanguages": {
 		"ocaml": "html",
 		"reason": "html"
@@ -127,15 +127,9 @@ Zignd.html-css-class-completion
 	"terminal.integrated.fontFamily": "Inconsolata for Powerline",
 	"flow.useNPMPackagedFlow": true,
 	"gitlens.advanced.messages": {
-		"suppressCommitHasNoPreviousCommitWarning": false,
-		"suppressCommitNotFoundWarning": false,
-		"suppressFileNotUnderSourceControlWarning": false,
-		"suppressGitVersionWarning": false,
-		"suppressLineUncommittedWarning": false,
-		"suppressNoRepositoryWarning": false,
+		"suppressCommitHasNoPreviousCommitWarning": true,
 		"suppressResultsExplorerNotice": true,
 		"suppressShowKeyBindingsNotice": true,
-		"suppressUpdateNotice": false,
 		"suppressWelcomeNotice": true
 	},
 	"indentRainbow.colors": [
@@ -154,10 +148,6 @@ Zignd.html-css-class-completion
 	"editor.tabSize": 4,
 	"editor.fontLigatures": true,
 	"editor.fontFamily": "Fira Code",
-	"prettier.singleQuote": true,
-	"prettier.useTabs": true,
-	"prettier.printWidth": 100,
-	"prettier.trailingComma": "all",
 	"terminal.integrated.rendererType": "dom",
 	"postcss.validate": false,
 	"html.validate.scripts": false,
@@ -221,5 +211,11 @@ Zignd.html-css-class-completion
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
+	"oneDarkPro.editorTheme": "solarized",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"eslint.debug": true,
+	"eslint.format.enable": true,
 }
 ```
