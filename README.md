@@ -16,14 +16,12 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Alfred](https://www.alfredapp.com/) - 💰 $19 - Boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
 	- [Configuration](./alfred)
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/files/Karabiner-Elements-12.1.0.dmg) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra or later.
-- [Station](https://getstation.com/) - A single place for all of your web-applications.
+- [Spark](https://sparkmailapp.com/) - The best personal email client. Revolutionary email for teams.
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) - 💰 $129 - ScreenFlow from Telestream, Inc. is a screencasting and video editing software for the OS X operating system.
 - [Sipapp](https://sipapp.io/) - 💰 $10.76 - The best way to collect, organize & share your colors.
 - [Teampaper Snap](http://teampaper.me/snap/) - Take a snapshot, highlight key areas and share your feedback in a matter of seconds.
 - [BetterSnapTool](https://itunes.apple.com/ch/app/bettersnaptool/id417375580?mt=12) - 💰 $2.99 - BetterSnapTool allows you to easily manage your window positions and sizes by either dragging them to one of the screen's corners or to the top, left or right side of the screen.
 	- [Configuration](./BetterSnapTool)
-- [BetterTouchTool](https://folivora.ai/) - 💰 $7.10 - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.
-	- [Configuration](./BetterTouchTool)
 	- [Presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool 
 	Touch Bar Presets
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - 💰 $16.14 - An advanced Mac system monitor for your menubar.
@@ -40,11 +38,12 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [CleanMyMac](https://macpaw.com/download/cleanmymac) Clean, optimize, and maintain your Mac with CleanMyMac 3. It scans every inch of your system, runs maintenance tasks, and keeps an eye on your Mac’s health.
 - [TablePlus](https://tableplus.io/) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 - [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation.
+- [Plex](https://www.plex.tv/) - Take your movies and TV plus all your personal media libraries on every device.
+- [Macs Fan Control](https://crystalidea.com/macs-fan-control) - Control fans on Apple computers, also on Windows via Boot Camp. Monitoring of fan speed and temperature sensors.
 
 ## 📓 Notes & Tasks
 
 - [Notion](https://www.notion.so/) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
-- [Trello](https://trello.com/) - Trello keeps track of everything, from the big picture to the minute details.
 - [Bear Notes](http://www.bear-writer.com/) - Bear is a beautiful, flexible writing app for crafting notes and prose.
 
 ## ⏳ Time Trackers

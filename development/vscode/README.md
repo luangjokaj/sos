@@ -43,6 +43,7 @@ jpoissonnier.vscode-styled-components
 kamikillerto.vscode-colorize
 killalau.vscode-liquid-snippets
 mhmadhamster.postcss-language
+mhutchie.git-graph
 michelemelluso.code-beautifier
 mikestead.dotenv
 mrcrowl.hg
@@ -59,6 +60,7 @@ pnp.polacode
 ricard.postcss
 samuelcolvin.jinjahtml
 shinnn.stylelint
+SimonSiefke.prettier-vscode
 sissel.shopify-liquid
 sleistner.vscode-fileutils
 spywhere.guides
@@ -66,9 +68,10 @@ stubailo.ignore-gitignore
 Toxblh.polacode-fork
 traBpUkciP.vscode-npm-scripts
 vscode-icons-team.vscode-icons
+whatwedo.twig
 wix.vscode-import-cost
 yorkxin.coffeescript-support
-zhuangtongfa.Material-theme
+zhuangtongfa.material-theme
 Zignd.html-css-class-completion
 ```
 
