@@ -31,7 +31,6 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Amphetamine](https://itunes.apple.com/ch/app/amphetamine/id937984704?mt=12) - Amphetamine is a little app that lives in your menu bar. With Amphetamine, you can effortlessly override your energy saver settings and keep your Mac awake.
 - [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 - [1Password](https://1password.com/) - 1Password remembers them all for you. Save your passwords and log in to sites with a single click. It's that simple.
-- [LastPass](https://www.lastpass.com/) - LastPass remembers all your passwords, so you don't have to.
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
 - [HandBrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 - [MacTracker](http://mactracker.ca/) - Mactracker provides detailed information on every Apple Macintosh, iPod, iPhone, and iPad ever made.
@@ -48,7 +47,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 ## ⏳ Time Trackers
 
-- [RescueTime](https://www.rescuetime.com/) - A personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
+- [Clockify](https://clockify.me/) - Clockify is the only completely free time tracking software for teams. It's a simple time tracker and timesheet app for tracking work hours across projects.
 - [Harvest](http://harvestapp.com/) - Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing. Get started for free.
 
 ## ⛑ Terminal
@@ -92,47 +91,52 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 ## 🌍 Chrome Extensions
 
-- [Reload CSS](https://chrome.google.com/webstore/detail/reload-css/bbmnfpjlilmepdmdmgmbecbcajoehnhe?hl=en) - Reload all stylesheets with a customizable keystroke (Alt-R by default).
-- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
-- [Whatruns](https://www.whatruns.com/) - Discover what runs a website.
-- [WhatFont](http://www.chengyinliu.com/whatfont.html) - WhatFont also detects services used for serving the font.
-- [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website.
-- [Muzli](https://muz.li/) - The best design inspiration - expertly curated for you.
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
 - [1Password](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk?hl=en) - Extends the 1Password app so you can fill and save passwords in your browser.
-- [RescueTime](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-and/bdakmnplckeopfghnlpocafcepegjeap) - Keep track of the time you spend in Chrome, and get a clear picture of what you were doing all day.
-- [Application Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh) - Open Drive files directly from your browser in compatible applications installed on your computer.
+- [Github File Icons](https://chrome.google.com/webstore/detail/github-file-icons/kkokonbjllgdmblmbichgkkikhlcnekp) - Chrome extension for displaying file icons on Github.
+- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
+- [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi) - The extension generates a documentmap or index of any web document structured with headings, and now, it shows the HTML 5 outline.
+- [HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo) - Generates a navigable page outline with heading and sectioning elements.
+- [HubSpot Sales](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd) - Email tracking, CRM for Gmail, and sales productivity tools in your inbox.
+- [Muzli 2 - Stay Inspired](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) - The freshest links about design and interactive, from around the web. A designer's must!
+- [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk) - Use our Web Clipper to save any website into Notion.
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
+- [Screen Recorder](https://chrome.google.com/webstore/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden) - Record a video from the camera or capture it from the screen (desktop, specific application window or Chrome tab).
+- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with Ease.
+- [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website.
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify web technologies.
+- [WhatFont](http://www.chengyinliu.com/whatfont.html) - WhatFont also detects services used for serving the font.
+- [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts.
 
 ## 💎 Sketch Plugins
 
-- [Sketch Runner](https://sketchrunner.com/) - Speed up your Sketch workflow.
-- [Fluid for Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) - Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
-- [Comma](https://github.com/margusholland/Comma) - Select text layers, layer groups or artboards to change the text.
+- [Runner](https://sketchrunner.com/) - Speed up your Sketch workflow.
 - [Confetti](http://www.sketchconfetti.com/) - Generate gorgeous confetti patterns in 1 click.
 - [Craft](https://www.invisionapp.com/craft) - Craft is a suite of plugins to let you design with real data in mind.
-- [FontBuddy](http://fontbuddy.co/) - Install missing fonts directly from Sketch.
 - [FontRapid](https://fontrapid.com/) - Design and create fonts directly in Sketch.
-- [Looper](https://github.com/sureskumar/Looper) - Looper is a sketch plugin that helps automate duplication of groups and layers.
-- [Map Generator](https://github.com/eddiesigner/sketch-map-generator) - Design beautiful map interfaces, mobile applications and more in less time with Map Generator 2.0. Now powered by Google and Mapbox.
+- [Lippy](https://github.com/abynim/lippy/) - An interactive lorem ipsum generator plugin for Sketch.
+- [Looper](https://github.com/sureskumar/Looper/) - Looper is a sketch plugin that helps automate duplication of groups and layers.
+- [Map Generator](https://github.com/eddiesigner/sketch-map-generator/) - Design beautiful map interfaces, mobile applications and more in less time with Map Generator 2.0. Now powered by Google and Mapbox.
 - [Marvel for Sketch](https://marvelapp.com/sketch/) - Sync designs. Play prototypes. Record flows.
-- [Material Theme Editor](https://material.io/tools/theme-editor/) - Create and customize your Material theme.
 - [Midnight](https://midnightsketch.com/) - 💰 $8 - Midnight adds a dark theme to Sketch. Bonus features include layer tags, indent guides, custom selection color, custom canvas darkness, and more.
-- [Mockuuups Studio](https://mockuuups.studio/sketch) - Turn Sketch artboards into perspective mockups.
-- [Paddy](https://github.com/DWilliames/paddy-sketch-plugin) - Automated padding, spacing and alignment for your Sketch layers.
-- [RenameIt](https://rodi01.github.io/RenameIt/) - Sequentially rename layers in either ascending or descending order.
-- [Separate Shapes](https://github.com/PEZ/SketchSeparateShapes) - A plugin for ”boolean” separating of overlapping shapes. Similar to divide in Adobe Illustrator's Pathfinder.
-- [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles) - A Sketch plugin that lets you import & export text styles throughout different Sketch documents.
-- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) - https://github.com/andrewfiorillo/sketch-palettes.
-- [Sketch Syntax Highlighter](https://github.com/danielguillan/sketch-syntax-highlighter) - Automatically highlight the syntax of any code block, right within Sketch.
-- [Style Master](https://github.com/aparajita/sketch-style-master) - Sketch plugin for renaming shared styles.
-- [SVG Insert](https://github.com/tankxu/SVG-Insert) - Use this plugin to help you save time from copy a svg graph on web into sketch.
-- [SVGO-Compressor](https://github.com/BohemianCoding/svgo-compressor) - A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
-- [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - Organize your symbols page alphabetically (including layer list) and into groupings determined by your symbol names.
-- [Sketch Symbols Manager](https://gumroad.com/l/sketch-symbols-manager) - 💰 $9.99 - A fast and easy way to manage all your symbols. No more hassle with long and complex symbols name, or renaming tons of symbols because you misspelled a folder name.
-- [Sketch Text Styles Manager](https://gumroad.com/l/sketch-text-styles-manager) - 💰 $9.99 - No more hassle with long and complex names, or renaming tons of styles because you misspelled a folder name.
+- [Paddy](https://github.com/DWilliames/paddy-sketch-plugin/) - Automated padding, spacing and alignment for your Sketch layers.
+- [Potrace](https://github.com/perrysmotors/sketch-potrace/) - Potrace for Sketch is a bitmap tracing plugin. It converts bitmap images into monochrome vector graphics.
+- [RenameIt](https://renameit.design/sketch/) - Keep your Sketch files organized, batch rename layers and artboards.
+- [Separate Shapes](https://github.com/PEZ/SketchSeparateShapes/) - A plugin for ”boolean” separating of overlapping shapes. Similar to divide in Adobe Illustrator's Pathfinder.
+- [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles/) - A Sketch plugin that lets you import & export text styles throughout different Sketch documents.
+- [Image Compressor](https://github.com/sketch-hq/sketch-image-compressor/) - A Plugin for Sketch that compresses your exported bitmap assets, to keep filesize to a minimum. This Plugin requires Sketch 3.8.
+- [Sketch Manager](https://www.sketchmanager.com/) - Whether you want to change a Text Style or a Symbol, you can now all do it in one plugin. This makes managing your Design System as easy as it gets.
+- [Sketch Measure](https://github.com/utom/sketch-measure/) - Make it a fun to create spec for developers and teammates.
+- [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes/) - A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and Pattern fills.
+- [Sketch Syntax Highlighter](https://github.com/danielguillan/sketch-syntax-highlighter/) - Automatically highlight the syntax of any code block, right within Sketch.
+- [Sketch Hyphenation](https://github.com/golmakov/sketch-hyphenator/) - Sketch plugin for addindg / removing hyphenation in selected text layers. Currently plugin supports only Russian and English texts.
+- [Style Master](https://github.com/aparajita/sketch-style-master/) - Sketch plugin for renaming shared styles.
+- [SVG Insert](https://github.com/tankxu/SVG-Insert/) - Use this plugin to help you save time from copy a svg graph on web into sketch.
+- [SVGO-Compressor](https://github.com/BohemianCoding/svgo-compressor/) - A Plugin that compresses SVG assets using SVGO, right when you export them. This Plugin requires Sketch 3.8.
+- [Symbol Organizer](https://github.com/sonburn/symbol-organizer/) - Organize your symbols page, and layer list, alphabetically and into groupings determined by your symbol names. 
+- [UI Faces](https://uifaces.co/sketch-plugin/) - Generate avatars in your project without leaving Sketch.
 - [Unsplash it Sketch](https://github.com/fhuel/Unsplash-It-Sketch) - A plugin to quickly include great looking images from Unsplash in your Sketch projects. Because being able to quickly iterate on UI is important but also having great photography as placeholders.
 - [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
-- [UI Faces](https://uifaces.co/sketch-plugin) - Generate avatars directly to your project without leaving Sketch.
+- [VisualEyes](https://github.com/loceye/sketch-visualeyes/) - Generate attention heatmaps without ever leaving your favorite design environment.
 
 ## 📺 Virtualization
 
