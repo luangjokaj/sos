@@ -53,10 +53,9 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 ## ⛑ Terminal
 - [iTerm](https://www.iterm2.com/) - iTerm2 is a replacement for Terminal. Brings the terminal into the modern age with features you never knew you always wanted.
-	- [Colors](./development/iterm/Framer-Syntax.itermcolors)
 - [Oh My ZSH](https://ohmyz.sh/) - Oh My Zsh omes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout...
-	- Theme: [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
-	- Fonts: [Powerline-patched font](https://github.com/powerline/fonts)
+
+[**🔗 iTerm Configuration and Settings**](./development/iterm/README.md)
 
 ## 🔢 Version Control
 - [Tower](https://www.git-tower.com/) - 💰 $69/Year - The most powerful Git client for Mac and Windows.
@@ -66,8 +65,8 @@ These are some of the tools and configurations I use most in my everyday workflo
 ## ⚙ Development
 
 - [VSCode](https://code.visualstudio.com/) - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
-	- [Extensions and Configuration](development/vscode/README.md)
-- [Stylelint Configuration](development/stylelint/stylelint.json)
+
+[**🔗 Extensions and Configuration**](development/vscode/README.md)
 
 ## 🎨 Design
 
@@ -93,7 +92,6 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 ## 🌍 Chrome Extensions
 
-- [Floating for YouTube™](https://chrome.google.com/webstore/detail/floating-for-youtube-exte/egncdnniomonjgpjbapalkckojhkfddk) - This extension requires Floating for YouTube™ app. You can download it [here](https://chrome.google.com/webstore/detail/jjphmlaoffndcnecccgemfdaaoighkel).
 - [Reload CSS](https://chrome.google.com/webstore/detail/reload-css/bbmnfpjlilmepdmdmgmbecbcajoehnhe?hl=en) - Reload all stylesheets with a customizable keystroke (Alt-R by default).
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
 - [Whatruns](https://www.whatruns.com/) - Discover what runs a website.
@@ -101,12 +99,9 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website.
 - [Muzli](https://muz.li/) - The best design inspiration - expertly curated for you.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
-- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) - The most popular Chrome extension, with over 40 million users! Blocks ads all over the web.
 - [1Password](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk?hl=en) - Extends the 1Password app so you can fill and save passwords in your browser.
-- [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en) - Extends the LastPass app so you can fill and save passwords in your browser.
 - [RescueTime](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-and/bdakmnplckeopfghnlpocafcepegjeap) - Keep track of the time you spend in Chrome, and get a clear picture of what you were doing all day.
 - [Application Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh) - Open Drive files directly from your browser in compatible applications installed on your computer.
-- [Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) - Pocket Extension for Chrome - The best way to save articles, videos and more.
 
 ## 💎 Sketch Plugins
 

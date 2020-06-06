@@ -6,19 +6,12 @@
 
 ```
 2gua.rainbow-brackets
-adrian.silverstripe
-afnizarnur.framer-snippets-vscode
 alefragnani.Bookmarks
 alefragnani.project-manager
 bierner.markdown-preview-github-styles
-blairleduc.touch-bar-display
-bradgashler.htmltagwrap
 christian-kohler.path-intellisense
 clinyong.vscode-css-modules
 codezombiech.gitignore
-cospaia.calva-fmt
-cospaia.clojure4vscode
-cospaia.paredit-revived
 cpylua.language-postcss
 cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
@@ -34,44 +27,28 @@ felipecaputo.git-project-manager
 flowtype.flow-for-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
-Framer.framer-syntax
-hemlok.framer-dark
 ionutvmi.path-autocomplete
 jock.svg
 joshpeng.sublime-babel-vscode
 jpoissonnier.vscode-styled-components
-kamikillerto.vscode-colorize
-killalau.vscode-liquid-snippets
 mhmadhamster.postcss-language
 mhutchie.git-graph
-michelemelluso.code-beautifier
 mikestead.dotenv
-mrcrowl.hg
 mrmlnc.vscode-apache
 mrmlnc.vscode-less
 mrorz.language-gettext
-ms-mssql.mssql
-ms-python.python
 ms-vsliveshare.vsliveshare
 naumovs.color-highlight
 neilding.language-liquid
 oderwat.indent-rainbow
-pnp.polacode
 ricard.postcss
-samuelcolvin.jinjahtml
 shinnn.stylelint
-SimonSiefke.prettier-vscode
 sissel.shopify-liquid
-sleistner.vscode-fileutils
 spywhere.guides
 stubailo.ignore-gitignore
-Toxblh.polacode-fork
-traBpUkciP.vscode-npm-scripts
 vscode-icons-team.vscode-icons
 whatwedo.twig
 wix.vscode-import-cost
-yorkxin.coffeescript-support
-zhuangtongfa.material-theme
 Zignd.html-css-class-completion
 ```
 
@@ -190,35 +167,19 @@ Zignd.html-css-class-completion
 	"gitlens.views.repositories.files.layout": "tree",
 	"gitlens.views.fileHistory.enabled": true,
 	"gitlens.views.lineHistory.enabled": true,
-	"[javascriptreact]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
 	"[postcss]": {
 		"editor.defaultFormatter": "dmitriy-lodyanov.vscode-stylefmt--pr-320"
 	},
 	"diffEditor.ignoreTrimWhitespace": false,
-	"[typescriptreact]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"[json]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
 	"workbench.iconTheme": "vscode-icons",
-	"[typescript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
 	"workbench.colorTheme": "Solarized Dark",
-	"[scss]": {
-		"editor.defaultFormatter": "michelemelluso.code-beautifier"
-	},
-	"[javascript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"oneDarkPro.editorTheme": "solarized",
 	"editor.codeActionsOnSave": {
-		"source.fixAll.eslint": true
+		"source.fixAll.eslint": false
 	},
 	"eslint.debug": true,
 	"eslint.format.enable": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true,
+	"extensions.ignoreRecommendations": false,
 }
 ```
