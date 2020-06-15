@@ -27,10 +27,12 @@ felipecaputo.git-project-manager
 flowtype.flow-for-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
+GitHub.github-vscode-theme
 ionutvmi.path-autocomplete
 jock.svg
 joshpeng.sublime-babel-vscode
 jpoissonnier.vscode-styled-components
+kamikillerto.vscode-colorize
 mhmadhamster.postcss-language
 mhutchie.git-graph
 mikestead.dotenv
@@ -40,6 +42,7 @@ mrorz.language-gettext
 ms-vsliveshare.vsliveshare
 naumovs.color-highlight
 neilding.language-liquid
+octref.vetur
 oderwat.indent-rainbow
 ricard.postcss
 shinnn.stylelint
@@ -172,7 +175,7 @@ Zignd.html-css-class-completion
 	},
 	"diffEditor.ignoreTrimWhitespace": false,
 	"workbench.iconTheme": "vscode-icons",
-	"workbench.colorTheme": "Solarized Dark",
+	"workbench.colorTheme": "GitHub Dark",
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": false
 	},
