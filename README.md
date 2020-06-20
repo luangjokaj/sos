@@ -92,7 +92,6 @@ These are some of the tools and configurations I use most in my everyday workflo
 ## 🌍 Chrome Extensions
 
 - [1Password](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk?hl=en) - Extends the 1Password app so you can fill and save passwords in your browser.
-- [Github File Icons](https://chrome.google.com/webstore/detail/github-file-icons/kkokonbjllgdmblmbichgkkikhlcnekp) - Chrome extension for displaying file icons on Github.
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself.
 - [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi) - The extension generates a documentmap or index of any web document structured with headings, and now, it shows the HTML 5 outline.
 - [HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo) - Generates a navigable page outline with heading and sectioning elements.
