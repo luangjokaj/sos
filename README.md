@@ -39,6 +39,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation.
 - [Plex](https://www.plex.tv/) - Take your movies and TV plus all your personal media libraries on every device.
 - [Macs Fan Control](https://crystalidea.com/macs-fan-control) - Control fans on Apple computers, also on Windows via Boot Camp. Monitoring of fan speed and temperature sensors.
+- [IINA](https://iina.io/) - The modern media player for macOS.
 
 ## 📓 Notes & Tasks
 
@@ -136,7 +137,6 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Unsplash it Sketch](https://github.com/fhuel/Unsplash-It-Sketch) - A plugin to quickly include great looking images from Unsplash in your Sketch projects. Because being able to quickly iterate on UI is important but also having great photography as placeholders.
 - [User Flows](https://abynim.github.io/UserFlows/) - A plugin for generating flow diagrams from Artboards in Sketch.
 - [VisualEyes](https://github.com/loceye/sketch-visualeyes/) - Generate attention heatmaps without ever leaving your favorite design environment.
-- [IINA](https://iina.io/) - The modern media player for macOS.
 
 ## 📺 Virtualization
 
