@@ -40,6 +40,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Plex](https://www.plex.tv/) - Take your movies and TV plus all your personal media libraries on every device.
 - [Macs Fan Control](https://crystalidea.com/macs-fan-control) - Control fans on Apple computers, also on Windows via Boot Camp. Monitoring of fan speed and temperature sensors.
 - [IINA](https://iina.io/) - The modern media player for macOS.
+- [NZBVortex 3](https://www.nzbvortex.com/) - Simply the best Usenet client for Mac.
 
 ## 📓 Notes & Tasks
 
