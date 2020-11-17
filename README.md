@@ -42,6 +42,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Macs Fan Control](https://crystalidea.com/macs-fan-control) - Control fans on Apple computers, also on Windows via Boot Camp. Monitoring of fan speed and temperature sensors.
 - [IINA](https://iina.io/) - The modern media player for macOS.
 - [NZBVortex 3](https://www.nzbvortex.com/) - Simply the best Usenet client for Mac.
+- [Tunnelblick](https://tunnelblick.net/) - Helps you control OpenVPN® VPNs on macOS.
 
 ## 📓 Notes & Tasks
 
@@ -108,7 +109,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify web technologies.
 - [WhatFont](http://www.chengyinliu.com/whatfont.html) - WhatFont also detects services used for serving the font.
 - [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts.
-- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - Extension for printing JSON and JSONP.
+- [JSON Viewerhttps://tunnelblick.net/](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - Extension for printing JSON and JSONP.
 
 ## 💎 Sketch Plugins
 
@@ -149,3 +150,6 @@ These are some of the tools and configurations I use most in my everyday workflo
 ## 😈 Windows
 
 - [Windows 10 Custom Cursors](http://www.michieldb.nl/other/cursors/) - A cursor design that looks good in high-DPI scaling.
+
+# Desktop Screenshot
+![macOS Desktop Screenshot](https://i.imgur.com/tbnUDkp.jpg)
