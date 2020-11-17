@@ -6,6 +6,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 
 ## 🌁 Image Optimization Tools
 
+- [Optimage](https://optimage.app/) - 💰 $15 - Automatically compress images achieving the highest compression ratio at consistent image quality.
 - [NXPowerLite](https://www.neuxpower.com/compress-jpeg-mac) - 💰 $47 - Compress: PDF, Word, PowerPoint, Excel and JPEG.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
 - [UPNG](http://upng.photopea.com/) - Shrink and optimize images. Set the ideal balance between the quality and the size.
@@ -107,6 +108,7 @@ These are some of the tools and configurations I use most in my everyday workflo
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify web technologies.
 - [WhatFont](http://www.chengyinliu.com/whatfont.html) - WhatFont also detects services used for serving the font.
 - [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts.
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - Extension for printing JSON and JSONP.
 
 ## 💎 Sketch Plugins
 
